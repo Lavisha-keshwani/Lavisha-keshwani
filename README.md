@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile photo — large, circular -->
-<img src="https://raw.githubusercontent.com/lavishakeshwani/lavishakeshwani/main/profile.png" width="200" alt="Lavisha Keshwani" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/Lavisha-keshwani/Lavisha-keshwani/main/profile.png" width="200" alt="Lavisha Keshwani" style="border-radius:50%"/>
 
 <br/><br/>
 
@@ -20,9 +20,9 @@
 <br/>
 
 <!-- Social badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=lavishakeshwani&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lavishakeshwani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavishakeshwani)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavishakeshwani03@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lavisha-keshwani&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lavisha-keshwani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lavisha-keshwani)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lavisha-keshwani03@gmail.com)
 
 </div>
 
@@ -36,7 +36,7 @@ I have hands-on experience as a **Software Engineer Intern at Sharajman Technolo
 
 I'm driven by structured thinking and data-driven decision making — turning complex analytical problems into impactful, production-ready solutions.
 
-📍 Chennai, India &nbsp;|&nbsp; 📫 lavishakeshwani03@gmail.com &nbsp;|&nbsp; 📞 +91 7307835793
+📍 Chennai, India &nbsp;|&nbsp; 📫 Lavisha-keshwani03@gmail.com &nbsp;|&nbsp; 📞 +91 7307835793
 
 ---
 
@@ -118,7 +118,7 @@ I'm driven by structured thinking and data-driven decision making — turning co
 - 📊 Implemented **workload analytics** and **sentiment tracking** for data-driven decision making
 - 🏗️ Designed scalable architecture enabling intelligent query retrieval and workflow optimization
 
-[![View Repo](https://img.shields.io/badge/GitHub-TeamSync-181717?style=for-the-badge&logo=github)](https://github.com/lavishakeshwani)
+[![View Repo](https://img.shields.io/badge/GitHub-TeamSync-181717?style=for-the-badge&logo=github)](https://github.com/Lavisha-keshwani)
 
 ---
 
@@ -133,7 +133,7 @@ I'm driven by structured thinking and data-driven decision making — turning co
 - ☁️ Deployed on cloud with **API integration** for real-time suspicious pattern identification
 - 💰 Demonstrated practical application of analytics for **financial risk mitigation**
 
-[![View Repo](https://img.shields.io/badge/GitHub-Fraud%20Detection-181717?style=for-the-badge&logo=github)](https://github.com/lavishakeshwani)
+[![View Repo](https://img.shields.io/badge/GitHub-Fraud%20Detection-181717?style=for-the-badge&logo=github)](https://github.com/Lavisha-keshwani)
 
 ---
 
@@ -148,7 +148,7 @@ I'm driven by structured thinking and data-driven decision making — turning co
 - 🔍 Designed **anomaly detection logic** to identify mismatches and inconsistencies in records
 - 🏁 Built for **Smart India Hackathon 2024**
 
-[![View Repo](https://img.shields.io/badge/GitHub-Doc%20Verification-181717?style=for-the-badge&logo=github)](https://github.com/lavishakeshwani)
+[![View Repo](https://img.shields.io/badge/GitHub-Doc%20Verification-181717?style=for-the-badge&logo=github)](https://github.com/Lavisha-keshwani)
 
 ---
 
@@ -162,7 +162,7 @@ I'm driven by structured thinking and data-driven decision making — turning co
 
 - 📊 Implemented **analytics dashboard** to identify top-performing products and sellers
 
-[![View Repo](https://img.shields.io/badge/GitHub-SmallBiz-181717?style=for-the-badge&logo=github)](https://github.com/lavishakeshwani)
+[![View Repo](https://img.shields.io/badge/GitHub-SmallBiz-181717?style=for-the-badge&logo=github)](https://github.com/Lavisha-keshwani)
 
 ---
 
@@ -180,17 +180,17 @@ I'm driven by structured thinking and data-driven decision making — turning co
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavishakeshwani&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavisha-keshwani&theme=tokyonight"/>
 
 <br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavishakeshwani&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavishakeshwani&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lavisha-keshwani&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lavisha-keshwani&theme=tokyonight"/>
 
 <br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavishakeshwani&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavishakeshwani&theme=tokyonight&utcOffset=5.5"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lavisha-keshwani&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lavisha-keshwani&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -201,9 +201,9 @@ I'm driven by structured thinking and data-driven decision making — turning co
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavishakeshwani/lavishakeshwani/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavishakeshwani/lavishakeshwani/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lavishakeshwani/lavishakeshwani/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavisha-keshwani/Lavisha-keshwani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lavisha-keshwani/Lavisha-keshwani/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lavisha-keshwani/Lavisha-keshwani/output/github-snake.svg" />
 </picture>
 
 </div>
