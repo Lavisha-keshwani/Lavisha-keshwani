@@ -30,7 +30,7 @@
 
 ## About Me
 
-B.Tech Computer Science and Engineering student at **VIT Chennai** (CGPA: 9.23/10), graduating in 2027. I build AI-driven systems and scalable platforms — from hybrid deep learning models for disease detection to cloud-deployed fraud detection pipelines.
+B.Tech Computer Science and Engineering student at **VIT Chennai** (CGPA: 9.29/10), graduating in 2027. I build AI-driven systems and scalable platforms — from hybrid deep learning models for disease detection to cloud-deployed fraud detection pipelines.
 
 I have hands-on experience as a **Software Engineer Intern at Sharajman Technologies** and a **Summer Research Intern at CADS Lab, VIT Chennai**, where I achieved 97% classification accuracy using a hybrid VGG16 + MobileNet model. My research was accepted and presented at **MIKE 2025**.
 
