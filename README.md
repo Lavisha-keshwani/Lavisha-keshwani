@@ -21,7 +21,7 @@
 
 <!-- Social badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Lavisha-keshwani&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lavisha-keshwani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lavisha-keshwani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavisha-keshwani-461680249/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lavisha-keshwani03@gmail.com)
 
 </div>
